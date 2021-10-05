@@ -43,12 +43,6 @@ function init()
 }
 init();
 
-//initial setup
- 
- 
-
-
-
  
  
 //switchPlayer Function
@@ -96,10 +90,13 @@ btnRoll.addEventListener('click', function(){
     {
     //1. generate a dice roll
     const dice=Math.trunc(Math.random()*6)+1;
+        
     //2. Display Dice
+        
     diceE1.classList.remove('hidden');
     diceE1.src=`dice-${dice}.png`;
-    //3. If Dice is equal to 1
+        
+    //3. If Dice is not equal to 1
     if(diceE1!==1)
     {
         currentScore+=dice;
