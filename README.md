@@ -10,8 +10,10 @@ Each turn, a player repeatedly rolls a die until either a 1 is rolled or the pla
 3)If a player chooses to "hold", their turn total is added to their score, and it becomes the next player's turn.
 4)The first player to score 100 or more points wins.
 
-For example, the Player1 begins a turn with a roll of 5. Player1 could hold and score 5 points, but chooses to roll again. Then Player1 rolls a 2, and could hold with a turn total of 7 points, but chooses to roll again. Then Player1 rolls a 1, and must end his turn without scoring. The next player..Player2 rolls the sequence 4-5-3-5-5, after which it chooses to hold, and adds total of 22 points to his score.
+Logic FlowChart :-- 
+
+![pig-game-flowchart](https://user-images.githubusercontent.com/89959592/136190260-72b1a893-120b-4433-9736-8d06e5fd24ef.png)
 
 Pig Game often serves as a simple example for teaching probability concepts from the middle school level upwards. The game also provides exercises for teaching computer science in areas ranging from introductory courses to advanced machine learning material. 
 
-This project was made in HTML/CSS/JavaScript.![pig-game-flowchart](https://user-images.githubusercontent.com/89959592/136190086-52337724-b107-4ebe-a44d-4fc98a4c4c1c.png)
+This project was made in HTML/CSS/JavaScript.!
