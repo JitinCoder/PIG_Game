@@ -1,6 +1,12 @@
 # PIG_Game
 
-Description:-- Pig is a simple dice game .Players take turns to roll a single dice as many times as they wish, adding all roll results to a running total, but losing their gained score for the turn if they roll a 1.
+<b><i>Pig</b></i>is a simple dice game .Players take turns to roll a single dice as many times as they wish, adding all roll results to a running total, but losing their gained score for the turn if they roll a 1.
+
+
+<b><i>Game Front End</b></i>
+
+![Game-FrontEnd](https://user-images.githubusercontent.com/89959592/136190749-a0d1237e-9acd-4c39-b431-6970fddfcde7.png)
+
 
 <b>Gameplay</b>
 Each turn, a player repeatedly rolls a die until either a 1 is rolled or the player decides to "hold":
